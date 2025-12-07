@@ -13,14 +13,3 @@ When coding something like a JavaScript accordion, half of the problem is how to
 5. Use an `if` statement to hide or display the content.
 6. Hide all other accordion content before displaying the new content.
 
-***
-
-## Repo Resources
-
-* [Visual Studio Code](https://code.visualstudio.com/)
-* [W3Schools - JavaScript](https://www.w3schools.com/js/)
-
-<br>
-<a href="https://codeadam.ca">
-<img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured-horizontal.png" width="200">
-</a>
